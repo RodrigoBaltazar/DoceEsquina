@@ -17,15 +17,16 @@ A repository to show our work challenges creating this website.
 # Authors
 
 [Rodrigo Baltazar](https://github.com/RodrigoBaltazar)
+
 [Leandro Ramos](https://github.com/leandrorsant)
 
 # License
 
-## MIT
+ MIT
 
 # Challenges
 
-[x] Rename about one thousand pictures with programming
-[x] Structure the pages with html and css using bootstrap
-[x] Setup the linux server
+[ ] Rename about one thousand pictures with programming
+[ ] Structure the pages with html and css using bootstrap
+[ ] Setup the linux server
 
