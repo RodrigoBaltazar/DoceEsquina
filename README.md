@@ -3,27 +3,27 @@
 A repository to show our work challenges creating this website.
 
 
-#Prerequisites to run it.
+# Prerequisites to run it.
 
--> WebServer running
--> HTML
--> CSS
--> Javascript
+ * WebServer running
+ * HTML
+ * CSS
+ * Javascript
 
-#Installing
+# Installing
 
-Simply copy this folder into your webserver folder, it must work without any dependencies.
+## Simply copy this folder into your webserver folder, it must work without any dependencies.
 
-#Authors
+# Authors
 
 [Rodrigo Baltazar](https://github.com/RodrigoBaltazar)
 [Leandro Ramos](https://github.com/leandrorsant)
 
-#License
+# License
 
-MIT
+## MIT
 
-#Challenges
+# Challenges
 
 [x] Rename about one thousand pictures with programming
 [x] Structure the pages with html and css using bootstrap
