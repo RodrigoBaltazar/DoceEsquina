@@ -12,7 +12,7 @@ A repository to show our work challenges creating this website.
 
 # Installing
 
-## Simply copy this folder into your webserver folder, it must work without any dependencies.
+ Simply copy this folder into your webserver folder, it must work without any dependencies.
 
 # Authors
 
@@ -26,7 +26,7 @@ A repository to show our work challenges creating this website.
 
 # Challenges
 
-[ ] Rename about one thousand pictures with programming
-[ ] Structure the pages with html and css using bootstrap
-[ ] Setup the linux server
+ * Rename about one thousand pictures with programming
+ * Structure the pages with html and css using bootstrap
+ * Setup the linux server
 
