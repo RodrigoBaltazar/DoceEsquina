@@ -1,12 +1,13 @@
 $(document).ready(function(){
-  $(".owl-carousel").owlCarousel();
-});
-
-$('.owl-carousel').owlCarousel({
-    loop:true,
-    margin:10,
-    responsiveClass:true,
-    responsive:{
+  var owl = $('.owl-carousel');
+  owl.owlCarousel({
+      items:4,
+      loop:true,
+      margin:10,
+      autoplay:true,
+      autoplayTimeout:1000,
+      autoplayHoverPause:true,
+      responsive:{
         0:{
             items:1,
             nav:true
@@ -19,6 +20,11 @@ $('.owl-carousel').owlCarousel({
             items:5,
             nav:true,
             loop:false
+          }
         }
-    }
-})
+      });
+
+
+owl.trigger('owl.play',1000);
+
+  });
