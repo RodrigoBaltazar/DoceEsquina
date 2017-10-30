@@ -2,7 +2,7 @@
 
 import glob
 
-lista =  glob.glob("/Users/rodrigobaltazar/Dropbox/projetos_git/2017/DoceEsquina/fotos/confeitaria/*.jpg")
+lista =  glob.glob("/Users/rodrigobaltazar/Dropbox/projetos_git/2017/DoceEsquina/fotos/salgados/*.jpg")
 
 for item in lista:
     if item[0] == item[-1]:
