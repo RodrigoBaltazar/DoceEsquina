@@ -1,34 +1,7 @@
-
 .logo {
-    display: block;
+    /*display: block;*/
     margin: auto;
     width: 300px;
     margin-top: 20px;
     margin-bottom: 20px;
-}
-
-.navbar-inverse {
-    background-color: #fff;
-    border-color: #000;
-}
-h2{
-  text-align: center;
-}
-.nav > li > a:hover, .nav > li > a:focus {
-  background-color: #eee !important;
-  text-decoration: none !important;
-}
-.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
-    color: #fff;
-    background-color: #1318c7;
-}
-.active{
-  background-color: #1318c7 !important;
-}
-nav a {
-    color: black;
-    text-decoration: none;
-}
-li.active a {
-    color: white !important;
 }
