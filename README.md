@@ -18,7 +18,6 @@ A repository to show our work challenges creating this website.
 
 [Rodrigo Baltazar](https://github.com/RodrigoBaltazar)
 
-[Leandro Ramos](https://github.com/leandrorsant)
 
 # License
 
